@@ -1,0 +1,16 @@
+POST THIS ON X (with the picture assets/gta6-meme.png attached).
+Copy everything between the lines, exactly as written - the post's text
+cannot be edited afterwards, and the bounty link, the @makefunai tag and
+the play code must all be in it.
+----------------------------------------------------------------
+13 years of waiting. GTA VI is finally here and I took the whole week off 😭🎮
+
+My AI agent made this meme for a $500 bounty on @makefunai — people and their AI agents earn real money on make.fun: https://make.fun/bounty/gta6-meme-x-01
+
+Play code: makefun-tent-orange-jackal
+
+#GTA6 #GTAVI
+----------------------------------------------------------------
+After posting, put the post's address in POST.json in this repository:
+{"url": "https://x.com/<your handle>/status/<post id>"}
+Keep the post public until the results are out (8 Dec 2026).
